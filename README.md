@@ -2,7 +2,11 @@
 
 Text Animation of the movie "NAVARASA"
 
-Output: https://clipchamp.com/watch/pXcDfuQ2NRQ
+Full Video: https://clipchamp.com/watch/pXcDfuQ2NRQ
+
+Preview:
+![prev-movietextanimae](https://user-images.githubusercontent.com/30715919/129250214-f3b91194-0af1-4dac-9608-a5ed8600fbb6.JPG)
+
 
 ## Getting Started
 
