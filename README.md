@@ -1,6 +1,8 @@
 # movie_text_animation
 
-A new Flutter application.
+Text Animation of the movie "NAVARASA"
+
+Output: https://clipchamp.com/watch/pXcDfuQ2NRQ
 
 ## Getting Started
 
